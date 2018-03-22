@@ -47,14 +47,14 @@ I used termux with some custom package and configuration.
     pkg install coreutils ncurses-utils openssh
     ```
 
-* vim
+* vim [1]
     ```bash
-    pkg install vim && git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime && sh ~/.vim_runtime/install_awesome_vimrc.sh [1]
+    pkg install vim && git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime && sh ~/.vim_runtime/install_awesome_vimrc.sh 
     ```
 
-* oh-my-termux and zsh
+* oh-my-termux and zsh [2]
     ```bash
-    bash -c "$(curl -fsSL https://git.io/oh-my-termux)" [2]
+    bash -c "$(curl -fsSL https://git.io/oh-my-termux)" 
     ```
 * neofetch
     ```bash
