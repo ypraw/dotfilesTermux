@@ -6,6 +6,7 @@ Linux environtment app for android.
 available on [google play store](https://play.google.com/store/apps/details?id=com.termux) or [f-droid](https://f-droid.org/repository/browse/?fdid=com.termux).
 For detail information [TERMUX](https://github.com/termux/termux-app)
 
+![ss](/screenshoot/ss.jpg)
 ## Setup 
 I used termux with some custom package and configuration.
 
