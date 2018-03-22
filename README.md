@@ -69,3 +69,4 @@ in the fact, i just copy-paste my ```.zshrc``` on linux dekstop conf to my termu
 2. [https://github.com/4679/oh-my-termux](https://github.com/4679/oh-my-termux)
 
 ## Lisence
+Source is available under the [MIT LICENSE](LICENSE.md)
