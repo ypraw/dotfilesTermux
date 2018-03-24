@@ -10,6 +10,8 @@ For detail information [TERMUX](https://github.com/termux/termux-app)
 ## Setup 
 I used termux with some custom package and configuration.
 
+> **__Note : you must install termux-style before add zsh and neofetch__**
+
 * termux-api
     ```bash
     pkg install termux-api
