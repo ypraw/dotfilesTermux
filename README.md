@@ -64,6 +64,14 @@ I used termux with some custom package and configuration.
     ```bash
     pkg install neofetch
     ```
+* youtube-dl (required python)
+    ```python
+    pip install youtube-dl
+    ```
+* ffmpeg
+    ```bash
+    pkg install ffmpeg
+    ```
 
 ## Config dotfiles
 in the fact, i just copy-paste my .zshrc on linux dekstop conf to my termux XD, you can find [here](https://github.com/ypraw/myDotfiles//tree/master/zsh)
