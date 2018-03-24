@@ -10,6 +10,7 @@ For detail information [TERMUX](https://github.com/termux/termux-app)
 ## Setup 
 I used termux with some custom package and configuration.
 
+
 > **__Note : you must install termux-style before add zsh and neofetch if not, icon possibilty will not appear__**
 
 * termux-api
@@ -70,6 +71,15 @@ in the fact, i just copy-paste my ```.zshrc``` on linux dekstop conf to my termu
 ##  References
 1. [https://github.com/amix/vimrc](https://github.com/amix/vimrc)
 2. [https://github.com/4679/oh-my-termux](https://github.com/4679/oh-my-termux)
+
+## Screenshoot
+
+* cpp program
+    ![ssc](/screenshoot/c.png)
+* flask program
+    ![ssflask](/screenshoot/flask.png)
+* django program
+    ![ssdjango](/screenshoot/django.png)
 
 ## Lisence
 Source is available under the [MIT LICENSE](LICENSE.md)
